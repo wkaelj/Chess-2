@@ -1,0 +1,72 @@
+[
+ {
+  "directory": "/home/kael/Code/Chess_2",
+  "arguments": [
+   "cc",
+   "-c",
+   "src/game.c",
+   "-o",
+   "bin/src/game.o",
+   "-std=gnu2x",
+   "-Og",
+   "-g"
+  ],
+  "file": "src/game.c"
+ },
+ {
+  "directory": "/home/kael/Code/Chess_2",
+  "arguments": [
+   "cc",
+   "-c",
+   "src/main.c",
+   "-o",
+   "bin/src/main.o",
+   "-std=gnu2x",
+   "-Og",
+   "-g"
+  ],
+  "file": "src/main.c"
+ },
+ {
+  "directory": "/home/kael/Code/Chess_2",
+  "arguments": [
+   "cc",
+   "-c",
+   "src/move.c",
+   "-o",
+   "bin/src/move.o",
+   "-std=gnu2x",
+   "-Og",
+   "-g"
+  ],
+  "file": "src/move.c"
+ },
+ {
+  "directory": "/home/kael/Code/Chess_2",
+  "arguments": [
+   "cc",
+   "-c",
+   "src/render/render_backend.c",
+   "-o",
+   "bin/src/render/render_backend.o",
+   "-std=gnu2x",
+   "-Og",
+   "-g"
+  ],
+  "file": "src/render/render_backend.c"
+ },
+ {
+  "directory": "/home/kael/Code/Chess_2",
+  "arguments": [
+   "cc",
+   "-c",
+   "src/render/render.c",
+   "-o",
+   "bin/src/render/render.o",
+   "-std=gnu2x",
+   "-Og",
+   "-g"
+  ],
+  "file": "src/render/render.c"
+ }
+]
